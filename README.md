@@ -13,7 +13,11 @@ Using the **Square** font. You can find the source on [Dafont](https://www.dafon
 - [x] Draw class.
 - [x] Game loop with delta-time.
 - [x] HTML/CSS layout.
-- [x] Loading message.
+- [x] Loading message with autohide on load.
+- [ ] Collision detection
+- [ ] `Image` and `Text` draw
+- [ ] Sprite handler (cache, animations, etc.).
+- [ ] ...
 
 
 No need to give me credit.
